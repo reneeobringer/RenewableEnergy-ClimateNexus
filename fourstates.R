@@ -48,7 +48,7 @@ datadir2 <- paste(path, '/NARRdata', sep = '')    # contains the climate data fr
 datadir3 <- paste(path, '/CensusData', sep = '')  # contains the population data from the US Census Bureau
 rdatadir <- paste(path, '/rdatafiles', sep = '')  # contains the rdata files
   
-# OPTIONAL: create an output directory for any any non-rdata output files (e.g., csv, pdf, etc.)
+# OPTIONAL: create an output directory for any non-rdata output files (e.g., csv, pdf, etc.)
 outputdir <- paste(path, '/outputdir', sep = '')
 dir.create(outputdir)
 
