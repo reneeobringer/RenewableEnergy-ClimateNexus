@@ -40,7 +40,7 @@ library(pdp)           # for partial dependence plots
 # NOTE: set this path to the folder on your personal machine which contains the downloaded data and code
 # for example: path <- '/Users/rqo5125/Downloads/ClimateAnalogs_WEN-main'
 
-path <- '/Users/rqo5125/Library/Mobile Documents/com~apple~CloudDocs/Documents/Research/GitHub/public/RenewableEnergy-ClimateNexus-main' # primary directory path
+path <- '    ' # primary directory path
 
 # set directories
 datadir1 <- paste(path, '/EIAdata', sep = '')     # contains the renewable energy data from EIA
