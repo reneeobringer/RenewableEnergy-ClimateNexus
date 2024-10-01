@@ -7,7 +7,7 @@ Three categories of data were collected: renewable energy generation data, clima
 The code was developed in R version 4.1.2 and last ran on 01 October 2024. The code is contained in the file `fourstates.R` and the associated Rdata files can be found in the `rdatafiles` folder. In order to run the code, the following R packages are required, with the version we used in parentheses: 
 
 *  bartMachine (v1.3.2)
-*  cowplot(v1.1.1)
+*  cowplot (v1.1.1)
 *  dplyr (v1.0.10)
 *  e1071 (v1.7-12)
 *  earth (v5.3.1)
