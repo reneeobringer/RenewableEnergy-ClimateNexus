@@ -5,4 +5,4 @@ Wind speed is broken down into u and v directions, to calculate wind speed, use 
 
 Data were obtained for each day from January 2000 through December 2022 and aggregated to form minimum, average, and maximum monthly values within the `fourstates.R` code.
 
-Data were collected for each contiguous US state and DC. For state ID codes, see `CONUS_States_info.xslx` in this folder.
+Data were collected for each contiguous US state and Washington DC. For state ID codes, see `CONUS_States_info.xslx` in this folder.
