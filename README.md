@@ -2,7 +2,7 @@
 
 Code and data for an analysis of the renewable energy-climate nexus across four US states. The results from the analysis are currently under review. 
 
-Three categories of data were collected: renewable energy generation data, climate data, and population data. The renewable energy generation data (folder: `EIAdata`) includes energy generation data for hydroelectric, solar, and wind power obtained from the US Energy Information Administration. The climate data (folder: `NARRdata`) were obtained from the North American Regional Reanalysis.The population data (folder: `CensusData`) were obtained from the US Census Bureau. All data were collected between 2023 and 2024.
+Three categories of data were collected: renewable energy generation data, climate data, and population data. The renewable energy generation data (folder: `EIAdata`) includes energy generation data for hydroelectric, solar, and wind power obtained from the US Energy Information Administration, as well as capacity data. The climate data (folders: `NARRdata` and `GCMdata`) were obtained from the North American Regional Reanalysis and CMIP6 generalized circulation models (GCMs), respectively.The population data (folder: `CensusData`) were obtained from the US Census Bureau. All data were collected between 2023 and 2024.
 
 The code was developed in R version 4.4.2 and last ran on 19 NOvember 2024. The code is contained in the file `fourstates.R` and the associated Rdata files can be found in the `rdatafiles` folder. In order to run the code, the following R packages are required, with the version we used in parentheses: 
 
